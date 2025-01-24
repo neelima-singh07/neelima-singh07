@@ -2,7 +2,7 @@
 - 👀 I’m interested in learing new technologies .
 - 🌱 I’m currently learning Data structure and algorthims .
 - 💞️ I’m hardworking and passionate about my goals . 
-- 📫 How to reach me Linkedin : [Neelima Singh](https://www.linkedin.com/in/neelima-singh-481294318/)
+- 📫 How to reach me :  Linkedin  [Neelima Singh](https://www.linkedin.com/in/neelima-singh-481294318/)
 
 - 😄 Pronouns: ...She/Her
 - ⚡ Let's connect 
