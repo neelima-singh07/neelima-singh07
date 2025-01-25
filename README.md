@@ -4,8 +4,8 @@
 - 💞️ I’m hardworking and passionate about my goals . 
 - 📫 How to reach me :  Linkedin  [Neelima Singh](https://www.linkedin.com/in/neelima-singh-481294318/)
 
-- 😄 Pronouns: ...She/Her
-- ⚡ Let's connect 
+- 😄 Pronouns: She/Her
+
 
 <!---
 neelima-singh07/neelima-singh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
