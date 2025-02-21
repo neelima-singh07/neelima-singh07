@@ -18,11 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer & problem solver who lo
 🏆 Codeforces Begginer  & LeetCode enthusiast.
 
 💻 Experience with C++, Python, and Web Development.
-<h1>Gith hub stats</h1>
 
-📚 Curr![Neelima's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelima-singh07&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelima-singh07&layout=compact&theme=radical)
 
 <h1>🤝 Connect With Me</h1>
 
