@@ -28,8 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer & problem solver who lo
 
 ✨ Let's collaborate & build something awesome!
 
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelima-singh07&layout=compact&theme=radical)
 
 ---
 
