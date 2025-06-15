@@ -66,7 +66,7 @@ I'm a passionate developer 🚀 who loves exploring new technologies, building c
 <p align="center">
   <a href="https://www.linkedin.com/in/neelima-singh-481294318/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://codolio.com/profile/Neelima"><img src="https://img.shields.io/badge/Codolio-Profile-orange?logo=codeforces&logoColor=white" alt="Codolio Profile"></a>
-  <a href="mailto:neelima.singh.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:singhneelima826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
