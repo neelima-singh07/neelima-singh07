@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neelima Singh!
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves exploring new technologies, building cool projects, and collaborating with the open-source community. I am Student at IGDTUW Batch of 2028 ,exploring and diving into Tech world . 
+I'm a passionate developer who loves exploring new technologies, building cool projects, and collaborating with the open-source community. Currently Student at IGDTUW Batch of 2028 ,exploring and diving into Tech world . 
 
 ---
 
@@ -17,7 +17,7 @@ I'm a passionate developer who loves exploring new technologies, building cool p
 ## 🧑‍💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mysql,postgres,git,github,linux,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,js,html,css,react,nodejs,mysql,git,github" />
 </p>
 
 ---
