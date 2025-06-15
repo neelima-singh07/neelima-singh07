@@ -17,16 +17,16 @@ I'm a passionate developer who loves exploring new technologies, building cool p
 ## 🧑‍💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,js,html,css,react,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,git,github" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced backend development
-- Cloud-native architecture
-- AI and machine learning
+- Data Structures and Algorithms
+- Web Devlopment 
+-  machine learning
 
 ---
 
