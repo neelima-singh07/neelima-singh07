@@ -52,7 +52,7 @@ I'm a passionate developer 🚀 who loves exploring new technologies, building c
 
 ## 🗺️ Explore My GitHub
 
-- 🏗️ **Pinned Projects**: Check out some of my favorite work below!
+
 - 📈 **Contribution Graph**:
 
   <p align="center">
