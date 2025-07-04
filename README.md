@@ -1,19 +1,12 @@
 # 👋 Hi, I'm Neelima Singh!
 
 Welcome to my GitHub profile!  
-I'm a passionate developer 🚀 who loves exploring new technologies, building cool projects, and collaborating with the open-source community.  
-🎓 Currently a student at IGDTUW, Batch of 2028, on a journey of learning, growing, and making an impact!
-
----
-
 ## 🎯 About Me
 
 - 🌱 Always learning something new—currently focused on **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**.
 - 💻 Love solving real-world problems through code.
 - 🤝 Open to collaborations, hackathons, and contributing to open-source projects.
 - 🧩 Enjoy brainstorming ideas and turning them into reality.
-- ✨ Fun fact: I believe every bug is just a misunderstood feature!
-
 ---
 
 ## 📊 GitHub Stats
