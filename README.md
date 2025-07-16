@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 ## 💡 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,git,github,Figma" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white"/>
