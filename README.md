@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Neelima Singh!
+# 👋 Hi, I'm Neelima Singh! an Undergrad at IGDTUW CSE(AI)
 
 Welcome to my GitHub profile!  
 ## 🎯 About Me
 
 - 🌱 Always learning something new—currently focused on **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**.
-- 💻 Love solving real-world problems through code.
+- 💻 Love solving real-world problems through code, solved 500+ DSA Problems on various platforms.
 - 🤝 Open to collaborations, hackathons, and contributing to open-source projects.
 - 🧩 Enjoy brainstorming ideas and turning them into reality.
 ---
