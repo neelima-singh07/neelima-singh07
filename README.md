@@ -33,6 +33,10 @@ Welcome to my GitHub profile!
 </p>
 
 ---
+## 📊 Languages Used
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelima-singh07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelima-singh07&layout=compact&theme=radical)
 
 ## 🚀 What I'm Up To
 
