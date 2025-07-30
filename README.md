@@ -33,17 +33,6 @@ Welcome to my GitHub profile!
 </p>
 
 ---
-## 📊 Languages Used
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelima-singh07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelima-singh07&layout=compact&theme=radical)
-
-## 🚀 What I'm Up To
-
-- 🔭 Building projects and exploring new frameworks.
-- 📚 Diving deeper into **Machine Learning** and **Backend Development**.
-- 📝 Writing tech blogs and sharing knowledge.
-- 🎨 Experimenting with UI/UX design for web projects.
 
 ---
 
