@@ -9,16 +9,6 @@ Welcome to my GitHub profile!
 - 🧩 Enjoy brainstorming ideas and turning them into reality.
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelima-singh07&show_icons=true&theme=tokyonight&hide_title=true" alt="Neelima's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelima-singh07&theme=tokyonight" alt="GitHub Streak" height="165">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelima-singh07&theme=tokyonight" alt="Profile Summary" height="165">
-</p>
-
 ---
 
 ## 💡 Languages & Tools
