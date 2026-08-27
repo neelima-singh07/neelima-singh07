@@ -36,16 +36,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🗺️ Explore My GitHub
 
-
-- 📈 **Contribution Graph**:
-
-  <p align="center">
-    <img src="https://ghchart.rshah.org/neelima-singh07" alt="Neelima's Github chart" />
-  </p>
-
----
 
 ## 🤝 Let's Connect!
 
